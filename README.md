@@ -1,0 +1,13 @@
+- 👋 Hi , I am @Codeadityaa(Aditya rai)
+- I am in a perpetual Beta mode, a "wannabe" Geek, a Social Media and Communication addict
+- 👀 I’m interested in coding,music and exploring something new everytime
+- 🌱 I’m currently learning U.I.E.T KANPUR (CSJMU,KANPUR)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Codeadityaa/Codeadityaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
