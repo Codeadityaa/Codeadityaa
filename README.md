@@ -1,4 +1,7 @@
-Aditya Raj 
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">Front-End Web Developer | SEO Content Writer | Java & Python Programmer</h3>
+
+---
 
 🎓 **Final Year B.Tech (Computer Science)**  
 📈 Scored 92 percentile in JEE Mains  
@@ -13,6 +16,8 @@ Aditya Raj
 - 🔤 Content Writing | SEO Blog Writing | Copywriting
 - 💻 Java (OOP), Python, C Programming
 - 📚 WordPress | Figma to HTML | Technical Writing
+
+---
 
 ### 🧰 What I Do:
 - 🖥️ Build **portfolio websites**, **landing pages**, and **responsive UIs**
@@ -30,10 +35,19 @@ Aditya Raj
 ---
 
 ### 📫 Contact Me:
-- 📧 Email: [araj887347@gmail.com]
-- 🌐 LinkedIn: [https://www.linkedin.com/in/aditya-rai-b7642b259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 📧 Email: [your email here]
+- 🌐 LinkedIn: [linkedin.com/in/your-profile]
 - 🗂️ Portfolio: Coming soon (Hosted on GitHub/Netlify)
 - 📱 WhatsApp: [your number if public]
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="aditya-github-stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="aditya-github-streak" />
+</p>
 
 ---
 
